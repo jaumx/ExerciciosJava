@@ -9,7 +9,7 @@ public class DoWhile {
 		//.........
 		//CAMBALHOTA
 		//.........
-	/*	
+		
 		int cc= 0;
 		 
 		do {
@@ -20,7 +20,7 @@ public class DoWhile {
 		//.........
 		ACERTE O NUMERO (7) PARA SAIR
 		//.........
-		*/
+		
 		Scanner teclado = new Scanner(System.in);
 		 int numero; 
 		 

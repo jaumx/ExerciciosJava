@@ -11,9 +11,9 @@ public class Aula07 {
 		Scanner teclado = new Scanner(System.in);
 		int n;
 		
-		System.out.println("Digite um numero: ");
+		System.out.print("Digite um numero: ");
 		
-		n = teclado.nextInt(); //pedir que o usuario digite um numero
+		n = teclado.nextInt(); 
 		
 		System.out.println(n + " x 1 = "+ (n * 1));
 		System.out.println(n + " x 2 = "+ (n * 2));

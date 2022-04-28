@@ -11,7 +11,7 @@ public class Exercicio05 {
 		int camb = tec.nextInt();
 		
 		for (int cc = 0; cc < camb; cc++); {
-		System.out.println("Cambalhota " + cc);
+		System.out.println("Cambalhota " + );
 			
 			
 		}
