@@ -29,9 +29,9 @@ public class Aula09 {
 		
 		for (int i = 0; i < qtdFrutas; i++) {
 			System.out.println(listaFrutas[i]);
-		
-		
+			
 		int [] numeros = {0, 5, 11, 4};
+		
 		
 		
 		
